@@ -6,4 +6,4 @@ All the blogs on Django Framework are written by me and you can find more reposi
 # Author of Blog and Application :<br>  yep that's me
 # Preview of the Application 
 
-<img src = 'LibraryApp.png'>
+<img src = >
